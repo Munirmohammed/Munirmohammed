@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munirmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="munirmohammed" /> </p>
 
-- 🔭 I’m currently working with **Mern Stack, Python and C#**
+- 🔭 I’m currently working with **Springboot, Mern Stack and Python**
 
 - 🌱 I’m currently learning **Flutter and Machine Learning**
 
-- 💬 Ask me about **Mern stack and python**
+- 💬 Ask me about **Springboot, Mern stack and python**
 
 - 📫 How to reach me **munirmohammed038@gmail.com**
 
