@@ -28,3 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munirmohammed&show_icons=true&locale=en" alt="munirmohammed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munirmohammed&" alt="munirmohammed" /></p>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
