@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munirmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="munirmohammed" /> </p>
 
-- 🔭 I’m currently working with **Springboot, Mern Stack and Python**
+- 🔭 I’m currently working with **Nest, Springboot, Mern Stack and Python**
 
 - 🌱 I’m currently learning **Flutter and Machine Learning**
 
-- 💬 Ask me about **Springboot, Mern stack and python**
+- 💬 Ask me about **Nest, Springboot, Mern stack and python**
 
 - 📫 How to reach me **munirmohammed038@gmail.com**
 
@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munirmohammed&show_icons=true&theme=vision-friendly-dark" alt="munirmohammed" /></p>
 
-<p align="center"><img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=munirmohammed&theme=vision-friendly-dark" alt="munirmohammed" /></p>
+<p align="center"><img width="800" height="220" src="https://streak-stats.demolab.com/?user=munirmohammed&theme=vision-friendly-dark" alt="munirmohammed" /></p>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
